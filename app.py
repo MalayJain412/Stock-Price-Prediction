@@ -34,7 +34,7 @@ st.markdown(
     .sidebar-notice {
         position: fixed;
         left: 0;
-        top: 14%;
+        top: 15%;
         transform: translateY(-50%);
         background: rgba(255, 255, 255, 0.20);
         border: 2px solid #4CAF50;
@@ -56,8 +56,8 @@ st.markdown(
     }
     @media (max-width: 768px) {
         .sidebar-notice {
-            top: auto;
-            bottom: 20%;
+            # top: auto;
+            top: 15%;
             font-size: 0.9em;
         }
     }
