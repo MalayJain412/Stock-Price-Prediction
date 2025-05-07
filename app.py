@@ -47,8 +47,8 @@ st.markdown(
     }
     .sidebar-notice::before {
         content: '👆';
-        positi;on: absolute;
-        top: 1px;
+        # position: absolute;
+        top: 20px;
         font-size: 1.2em;
     }
     .sidebar-notice:hover {
